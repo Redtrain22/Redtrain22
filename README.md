@@ -16,7 +16,7 @@ I'm mainly active on Discord so if you need something from me that will be the p
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Redtrain22&show_private=true&show_icons=true&theme=radical&show_icons=true&hide_border=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redtrain22&layout=compact&theme=radical&show_icons=true&hide_border=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redtrain22&langs_count=5&layout=compact&theme=radical&show_icons=true&hide_border=true" />
     </td>
   </tr>
 </table>
